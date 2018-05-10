@@ -17,6 +17,6 @@ After I reached my first target of building an interacting robot car, my next (a
 ## Overview
 - I'm using a NodeMCU (https://www.az-delivery.de/products/nodemcu) to control the robot car
 - The software is written in C/C++
--- I'm using the Arduino IDE. Maybe I'll switch to Eclipse or CLion later, don't know yet
+  - I'm using the Arduino IDE. Maybe I'll switch to Eclipse or CLion later, don't know yet
 - The parts of the robot are mostly printed with a 3D printer (Prusa i3 in my case)
--- I may use other parts if I have no other choice, but im trying to print as much as possible
+  - I may use other parts if I have no other choice, but im trying to print as much as possible
